@@ -1,0 +1,9 @@
+{
+  "name": "KFC 問卷助手",
+  "short_name": "KFC助手",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d32f2f",
+  "icons": []
+}
